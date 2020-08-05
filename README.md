@@ -4,9 +4,9 @@
 
 #### I'm:
 
-- 🏢 I’m currently working at [Flipp](https://corp.flipp.com)
-- 🔭 Where I work with TypeScript, Vanilla Web Components, NodeJS (Express)
-- ⚡ To do fun things with IFrames, Workers, and more
+- 🏢 I currently work at [Flipp](https://corp.flipp.com)
+  - 🔭 Where I use TypeScript, Vanilla Web Components, NodeJS (Express)
+  - ⚡ To do fun things with IFrames, Workers, and more
 
 - 🌱 I’m currently learning [Go](https://golang.org/)
 
