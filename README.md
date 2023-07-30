@@ -5,10 +5,8 @@
 #### I'm:
 
 - 🏢 I currently work at [Flipp](https://corp.flipp.com)
-  - 🔭 Where I use TypeScript, Vanilla Web Components, NodeJS (Express)
+  - 🔭 Where I use TypeScript and GoLang
   - ⚡ To do fun things with IFrames, Workers, and more
-
-- 🌱 I’m currently learning [Go](https://golang.org/)
 
 - 📫 How to reach me: [Web](https://mattmohan.com)
 
